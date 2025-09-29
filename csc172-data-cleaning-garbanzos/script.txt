@@ -1,0 +1,5 @@
+1.the dataset chosen and why
+2.key data cleaning problems identified
+3.steps you took to clean the data
+4.how you used an AI tool during the process
+5.the final results of your cleaned dataset
