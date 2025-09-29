@@ -104,4 +104,4 @@ print(df.isna().sum())
 - Fare (mean): reduced from 32.20 → 24.04
 - Fare (max): reduced from 512.33 → 65.63
 
-Video: link
+Video: linkhttps://drive.google.com/file/d/1Vh4KfILBLht9wcTjbtqtecY1Bv9Xybx6/view?usp=sharing
