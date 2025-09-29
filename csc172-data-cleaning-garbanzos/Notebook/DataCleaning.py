@@ -74,5 +74,5 @@ print(df.isnull().sum())
 
 # 3. SAVE CLEANED DATASET
 
-df.to_csv("Data/cleaned_dataset.csv", index=False)
+df.to_csv("Notebook/cleaned_dataset.csv", index=False)
 #print("\n✅ Cleaned dataset saved as Data/cleaned_dataset.csv")
